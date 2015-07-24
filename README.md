@@ -1,6 +1,6 @@
-## Lynda Javascript Code Clinic Challenge One
+# Lynda Javascript Code Clinic Challenge One
 
-# This project looks at data analysis and stats.
+## This project looks at data analysis and stats.
 
 It uses AJAX to pull data
 
