@@ -7,3 +7,5 @@ It uses AJAX to pull data
 It then draws a graph using d3 and c3 libraries.
 
 It contains Javascript MEAN and MEDIAN functions
+
+## Parsing Data
