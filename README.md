@@ -1,4 +1,4 @@
-# Lynda Javascript Code Clinic Challenge One
+# Lynda JS Code Clinic: Challenge One
 
 ## This project looks at data analysis and stats.
 
